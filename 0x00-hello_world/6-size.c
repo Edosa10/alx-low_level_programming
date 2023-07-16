@@ -1,11 +1,9 @@
 #include <stdio.h>
  /**
- *  main - A programme that prints the size of various computer types
- *  Return 0(Success)
+ * main - A programme that prints the size of various computer types
+ * Return 0(Success)
  */
-
-int main(void)
-{
+int main(void){
         char a;
         int b;
         long int c;
