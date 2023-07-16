@@ -3,6 +3,7 @@
  * main - A programme that print a the size of various computer types
  * Return: 0 (success)
  */
+
 int main(void)
 {
 	char a;
